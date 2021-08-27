@@ -101,7 +101,7 @@
 
      - 성능
 
-       - ![image-20210827155659151](C:\Users\wooko\AppData\Roaming\Typora\typora-user-images\image-20210827155659151.png)
+       - ![반복계포장계](https://user-images.githubusercontent.com/58154633/131095698-ab10f3b8-7a7a-4cd7-b7a7-8a8841718061.png)
 
      - SQL 실행의 오버헤드
 
